@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+*.tsbuildinfo
+next-env.d.ts
+.env
+.env.local
+.env.*.local
+.DS_Store
+
+# Página do Instagram salva no navegador (material de referência, não faz parte do site)
+polo lacoste.html
+polo lacoste_files/
+/logo.jpg
